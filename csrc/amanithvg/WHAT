@@ -1,4 +1,5 @@
 amanithvg 4.0.0.679-eval from http://www.amanithvg.com/ (evaluation license)
+platforms: mingw32
 
 amanithvg is not open source.
 AFAIK, the binary is redistributable for demo purposes only.
