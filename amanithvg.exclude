@@ -17,5 +17,6 @@
 
 !/amanithvg*
 !/bin/mingw32/libAmanithVG*
+!/bin/mingw64/libAmanithVG*
 !/csrc/amanithvg/
 !/csrc/amanithvg/**
