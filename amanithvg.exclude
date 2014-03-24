@@ -16,7 +16,7 @@
 !/media/
 
 !/amanithvg*
-!/bin/mingw32/libAmanithVG*
-!/bin/mingw64/libAmanithVG*
+!/bin/mingw32/libAmanith*
+!/bin/mingw64/libAmanith*
 !/csrc/amanithvg/
 !/csrc/amanithvg/**
